@@ -118,7 +118,7 @@ function Login() {
 
                 <div className="text-center mt-4">
                     <p className="text-muted small">
-                        © {new Date().getFullYear()} Nombre de la Institución, Todos los derechos reservados
+                        © {new Date().getFullYear()} IE VICTORIA ABANCAY, Todos los derechos reservados
                     </p>
                 </div>
             </div>
