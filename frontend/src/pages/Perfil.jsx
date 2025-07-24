@@ -23,7 +23,7 @@ function Perfil() {
     fetchPerfil();
   }, []);
 
-  if (loading || !usuario) return <p>Cargando perfil...</p>;
+  if (loading || !usuario) return <p>Mis Datos...</p>;
 
   return (
     <div>
